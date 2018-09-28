@@ -1,0 +1,214 @@
+WEBVTT FILE
+
+startEvent
+00:00:00.000 --> 32:14:02.737
+{"name":"STXPBSO20180911842","eventTimestamp":1536649838833,"eventName":"startEvent"}
+
+eventLog
+00:00:00.001 --> 32:14:02.737
+{"isTimeLine":true,"firstName":"Oleg","lastName":"Kolomiets","source":"RESPONSE TEAM","participantDocId":"5b1019c2be0d733af2b4b2e3","data":"Has created this event at Boca Raton, FL, USA","timeStamp":"2018-09-11T07:10:38.325Z","category":"NOTES","referenceId":"STXPBSO20180911842","messageDocId":"5b976a6e9014ca001cea07c4","name":"STXPBSO20180911842","eventTimestamp":1,"eventName":"eventLog"}
+
+eventLog
+02:19:58.433 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:30:37.124Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has joined","messageDocId":"5b978b3d9014ca001cea0808","name":"STXPBSO20180911842","eventTimestamp":8398433,"eventName":"eventLog"}
+
+eventLog
+02:20:25.365 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T09:31:04.183Z","category":"NOTES","source":"STRAX - TEAM CHANGE","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has included Oleg 1 Kolomiets 1 in this event.","messageDocId":"5b978b589014ca001cea080a","name":"STXPBSO20180911842","eventTimestamp":8425365,"eventName":"eventLog"}
+
+eventLog
+02:20:44.675 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:31:23.391Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has joined","messageDocId":"5b978b6b9014ca001cea080f","name":"STXPBSO20180911842","eventTimestamp":8444675,"eventName":"eventLog"}
+
+eventLog
+02:21:13.970 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:31:52.712Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has joined","messageDocId":"5b978b889014ca001cea0811","name":"STXPBSO20180911842","eventTimestamp":8473970,"eventName":"eventLog"}
+
+eventLog
+02:21:58.786 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:32:37.517Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has left","messageDocId":"5b978bb59014ca001cea0813","name":"STXPBSO20180911842","eventTimestamp":8518786,"eventName":"eventLog"}
+
+eventLog
+02:21:58.962 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T09:32:37.784Z","category":"NOTES","source":"STRAX - TEAM CHANGE","firstName":"Oleg","lastName":"Kolomiets","data":"Has exited this event.","messageDocId":"5b978bb59014ca001cea0815","name":"STXPBSO20180911842","eventTimestamp":8518962,"eventName":"eventLog"}
+
+eventLog
+02:21:59.230 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:32:37.909Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Switched to Dashboard","messageDocId":"5b978bb69014ca001cea0817","name":"STXPBSO20180911842","eventTimestamp":8519230,"eventName":"eventLog"}
+
+eventLog
+02:22:04.703 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has been added to this event.","messageDocId":"5b978bbb9014ca001cea0819","timeStamp":"2018-09-11T09:32:43.527Z","name":"STXPBSO20180911842","eventTimestamp":8524703,"eventName":"eventLog"}
+
+eventLog
+02:22:05.453 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:32:44.196Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Has joined","messageDocId":"5b978bbc9014ca001cea081b","name":"STXPBSO20180911842","eventTimestamp":8525453,"eventName":"eventLog"}
+
+eventLog
+02:23:03.180 --> 32:14:02.737
+{"callSign":{"callSignName":"239-007"},"isTimeLine":true,"timeStamp":"2018-09-11T09:33:41.862Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5b1019c2be0d733af2b4b2e3","firstName":"Oleg","lastName":"Kolomiets","data":"Switched to Dashboard","messageDocId":"5b978bf69014ca001cea081d","name":"STXPBSO20180911842","eventTimestamp":8583180,"eventName":"eventLog"}
+
+eventLog
+05:10:06.437 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has been added to this event.","messageDocId":"5b97b31d9014ca001cea08a7","timeStamp":"2018-09-11T12:20:45.255Z","name":"STXPBSO20180911842","eventTimestamp":18606437,"eventName":"eventLog"}
+
+eventLog
+05:10:07.504 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:20:46.291Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b97b31e9014ca001cea08a9","name":"STXPBSO20180911842","eventTimestamp":18607504,"eventName":"eventLog"}
+
+eventLog
+05:11:24.236 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:22:03.036Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has left","messageDocId":"5b97b36b9014ca001cea08ae","name":"STXPBSO20180911842","eventTimestamp":18684236,"eventName":"eventLog"}
+
+eventLog
+05:11:24.273 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:22:03.086Z","category":"NOTES","source":"STRAX - TEAM CHANGE","firstName":"Roni","lastName":"Costa","data":"Has exited this event.","messageDocId":"5b97b36b9014ca001cea08b0","name":"STXPBSO20180911842","eventTimestamp":18684273,"eventName":"eventLog"}
+
+eventLog
+05:11:24.435 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:22:03.149Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b97b36b9014ca001cea08b2","name":"STXPBSO20180911842","eventTimestamp":18684435,"eventName":"eventLog"}
+
+eventLog
+05:11:29.680 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has been added to this event.","messageDocId":"5b97b3709014ca001cea08b7","timeStamp":"2018-09-11T12:22:08.502Z","name":"STXPBSO20180911842","eventTimestamp":18689680,"eventName":"eventLog"}
+
+eventLog
+05:13:42.393 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:24:21.201Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b97b3f59014ca001cea08bd","name":"STXPBSO20180911842","eventTimestamp":18822393,"eventName":"eventLog"}
+
+eventLog
+05:13:44.099 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:24:22.890Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has left","messageDocId":"5b97b3f69014ca001cea08bf","name":"STXPBSO20180911842","eventTimestamp":18824099,"eventName":"eventLog"}
+
+eventLog
+05:13:44.127 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:24:22.951Z","category":"NOTES","source":"STRAX - TEAM CHANGE","firstName":"Roni","lastName":"Costa","data":"Has exited this event.","messageDocId":"5b97b3f69014ca001cea08c1","name":"STXPBSO20180911842","eventTimestamp":18824127,"eventName":"eventLog"}
+
+eventLog
+05:13:44.272 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:24:23.010Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b97b3f79014ca001cea08c3","name":"STXPBSO20180911842","eventTimestamp":18824272,"eventName":"eventLog"}
+
+eventLog
+05:14:12.587 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has been added to this event.","messageDocId":"5b97b4139014ca001cea08c8","timeStamp":"2018-09-11T12:24:51.411Z","name":"STXPBSO20180911842","eventTimestamp":18852587,"eventName":"eventLog"}
+
+eventLog
+05:15:03.799 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:25:42.608Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b97b4469014ca001cea08cd","name":"STXPBSO20180911842","eventTimestamp":18903799,"eventName":"eventLog"}
+
+eventLog
+05:15:05.885 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:25:44.689Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has left","messageDocId":"5b97b4489014ca001cea08cf","name":"STXPBSO20180911842","eventTimestamp":18905885,"eventName":"eventLog"}
+
+eventLog
+05:15:05.916 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:25:44.733Z","category":"NOTES","source":"STRAX - TEAM CHANGE","firstName":"Roni","lastName":"Costa","data":"Has exited this event.","messageDocId":"5b97b4489014ca001cea08d1","name":"STXPBSO20180911842","eventTimestamp":18905916,"eventName":"eventLog"}
+
+eventLog
+05:15:06.050 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T12:25:44.788Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b97b4489014ca001cea08d3","name":"STXPBSO20180911842","eventTimestamp":18906050,"eventName":"eventLog"}
+
+eventLog
+05:15:11.215 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has been added to this event.","messageDocId":"5b97b44e9014ca001cea08d8","timeStamp":"2018-09-11T12:25:50.041Z","name":"STXPBSO20180911842","eventTimestamp":18911215,"eventName":"eventLog"}
+
+eventLog
+06:01:39.244 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T13:12:18.039Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b97bf329014ca001cea093f","name":"STXPBSO20180911842","eventTimestamp":21699244,"eventName":"eventLog"}
+
+eventLog
+06:01:41.578 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T13:12:20.376Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has left","messageDocId":"5b97bf349014ca001cea0941","name":"STXPBSO20180911842","eventTimestamp":21701578,"eventName":"eventLog"}
+
+eventLog
+06:01:41.604 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T13:12:20.421Z","category":"NOTES","source":"STRAX - TEAM CHANGE","firstName":"Roni","lastName":"Costa","data":"Has exited this event.","messageDocId":"5b97bf349014ca001cea0943","name":"STXPBSO20180911842","eventTimestamp":21701604,"eventName":"eventLog"}
+
+eventLog
+06:01:41.742 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-11T13:12:20.476Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b97bf349014ca001cea0945","name":"STXPBSO20180911842","eventTimestamp":21701742,"eventName":"eventLog"}
+
+eventLog
+28:42:25.966 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has been added to this event.","messageDocId":"5b98fe209014ca001cea0b43","timeStamp":"2018-09-12T11:53:04.786Z","name":"STXPBSO20180911842","eventTimestamp":103345966,"eventName":"eventLog"}
+
+eventLog
+28:42:26.969 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T11:53:05.773Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b98fe219014ca001cea0b45","name":"STXPBSO20180911842","eventTimestamp":103346969,"eventName":"eventLog"}
+
+eventLog
+28:43:09.760 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T11:53:48.493Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b98fe4c9014ca001cea0b49","name":"STXPBSO20180911842","eventTimestamp":103389760,"eventName":"eventLog"}
+
+eventLog
+28:46:00.307 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T11:56:39.112Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b98fef79014ca001cea0b57","name":"STXPBSO20180911842","eventTimestamp":103560307,"eventName":"eventLog"}
+
+eventLog
+28:46:57.835 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T11:57:36.544Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b98ff309014ca001cea0b5f","name":"STXPBSO20180911842","eventTimestamp":103617835,"eventName":"eventLog"}
+
+eventLog
+32:06:51.971 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Has been added to this event.","messageDocId":"5b992e0a9014ca001cea0c18","timeStamp":"2018-09-12T15:17:30.795Z","name":"STXPBSO20180911842","eventTimestamp":115611971,"eventName":"eventLog"}
+
+eventLog
+32:06:52.749 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:17:31.557Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Has joined","messageDocId":"5b992e0b9014ca001cea0c1c","name":"STXPBSO20180911842","eventTimestamp":115612749,"eventName":"eventLog"}
+
+eventLog
+32:06:55.688 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:17:34.423Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Switched to Dashboard","messageDocId":"5b992e0e9014ca001cea0c1e","name":"STXPBSO20180911842","eventTimestamp":115615688,"eventName":"eventLog"}
+
+eventLog
+32:09:03.193 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T15:19:41.993Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b992e8e9014ca001cea0c25","name":"STXPBSO20180911842","eventTimestamp":115743193,"eventName":"eventLog"}
+
+eventLog
+32:09:21.698 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T15:20:00.387Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b992ea09014ca001cea0c27","name":"STXPBSO20180911842","eventTimestamp":115761698,"eventName":"eventLog"}
+
+eventLog
+32:09:24.263 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has exited from this event.","messageDocId":"5b992ea39014ca001cea0c2b","timeStamp":"2018-09-12T15:20:03.088Z","name":"STXPBSO20180911842","eventTimestamp":115764263,"eventName":"eventLog"}
+
+eventLog
+32:11:49.111 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:22:27.880Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Has joined","messageDocId":"5b992f339014ca001cea0c36","name":"STXPBSO20180911842","eventTimestamp":115909111,"eventName":"eventLog"}
+
+eventLog
+32:12:01.507 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:22:40.292Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Has joined","messageDocId":"5b992f409014ca001cea0c3b","name":"STXPBSO20180911842","eventTimestamp":115921507,"eventName":"eventLog"}
+
+eventLog
+32:12:02.587 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:22:41.320Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Switched to Dashboard","messageDocId":"5b992f419014ca001cea0c3d","name":"STXPBSO20180911842","eventTimestamp":115922587,"eventName":"eventLog"}
+
+eventLog
+32:12:27.399 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:23:06.205Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Has joined","messageDocId":"5b992f5a9014ca001cea0c3f","name":"STXPBSO20180911842","eventTimestamp":115947399,"eventName":"eventLog"}
+
+eventLog
+32:13:57.537 --> 32:14:02.737
+{"isTimeLine":true,"category":"NOTES","source":"STRAX - SAC","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has been added to this event.","messageDocId":"5b992fb49014ca001cea0c45","timeStamp":"2018-09-12T15:24:36.363Z","name":"STXPBSO20180911842","eventTimestamp":116037537,"eventName":"eventLog"}
+
+eventLog
+32:13:58.271 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T15:24:37.074Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has joined","messageDocId":"5b992fb59014ca001cea0c47","name":"STXPBSO20180911842","eventTimestamp":116038271,"eventName":"eventLog"}
+
+eventLog
+32:14:02.438 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T15:24:41.216Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Has ended event at Boca Raton, FL, USA","messageDocId":"5b992fb99014ca001cea0c49","name":"STXPBSO20180911842","eventTimestamp":116042438,"eventName":"eventLog"}
+
+eventLog
+32:14:02.597 --> 32:14:02.737
+{"callSign":{"callSignName":"000-593"},"isTimeLine":true,"timeStamp":"2018-09-12T15:24:41.318Z","category":"NOTES","source":"STRAXAPP","participantDocId":"5979f4a498a8100001259b49","firstName":"Carolina","lastName":"Miranda","data":"Switched to Dashboard","messageDocId":"5b992fb99014ca001cea0c4b","name":"STXPBSO20180911842","eventTimestamp":116042597,"eventName":"eventLog"}
+
+eventLog
+32:14:02.736 --> 32:14:02.737
+{"isTimeLine":true,"timeStamp":"2018-09-12T15:24:41.332Z","category":"NOTES","source":"STRAXAPP","participantDocId":"59808d57a7e0270001147d68","firstName":"Roni","lastName":"Costa","data":"Switched to Dashboard","messageDocId":"5b992fb99014ca001cea0c4d","name":"STXPBSO20180911842","eventTimestamp":116042736,"eventName":"eventLog"}
+
+endEvent
+32:14:02.737 --> 32:14:02.737
+{"name":"STXPBSO20180911842","eventTimestamp":116042737,"eventName":"endEvent"}
+
